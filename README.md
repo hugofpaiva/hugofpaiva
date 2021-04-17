@@ -36,23 +36,22 @@
 
 <br/>
 
-<div style="display:flex; justify-content: space-around">
-<p style="width:200px">
+<div align="left">
   
 <ul>
 <li>💼 Working at Miio</li>
 <li>📚 Studing at University of Aveiro</li>
 <li>💻 Currently using Django, Angular, Java...</li>
 <li>🏎 Fascination with Technology, Cars and Sports</li>
-<li>💡 Fun fact: When I was younger, I used to mess up with Navigation Software of BMW cars</li>
+<li>💡 Fun fact: I used to mess up with Nav SW of BMW cars</li>
 <li>💬 You can always contact me through my social media!</li>
 </ul>
 
 </p>
-<div style="height:300px"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /></div>  
-</div>
+<img align="right" heigh="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
 
-<br/>  
+
+<br/>    
 
 
 ## 🧠 My Skills 
