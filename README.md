@@ -20,8 +20,9 @@
 <img src=https://img.shields.io/badge/website-%2324292e?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
 
-
+<a href="https://github.com/hugofpaiva" target="_blank">
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hugofpaiva.hugofpaiva&label=Visitors&labelColor=569682&logo=GitHub&logoColor=FFFFFF&color=24292E&style=for-the-badge" alt=counter style="margin-bottom: 5px;" />
+</a>  
 
 
 
