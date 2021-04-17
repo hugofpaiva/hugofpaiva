@@ -1,16 +1,117 @@
-### Hi there 👋
+
+<div align="center">
+<img src="./greetings.gif" align="center" style="width: 70%" />
+</div>  
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/hugofpaiva" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/hugofpaiva" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=569682 alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://www.hugopaiva.com" target="_blank">
+<img src=https://img.shields.io/badge/website-%2324292e?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>  
+
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hugofpaiva.hugofpaiva&label=Visitors&labelColor=569682&logo=GitHub&logoColor=FFFFFF&color=24292E&style=for-the-badge" alt=counter style="margin-bottom: 5px;" />
+
+
+</div>  
+
+
+<br/>
+  
+
+## <div align="center">I'm Hugo, a Tech Nerd currently studing Software Engineering ⚡️</div>  
+
+<br/>
+
+<div style="display:flex; justify-content: space-around">
+<div style="font-size:14pt; display:flex; align-items:center; width:40%">
+<ul>
+<li>💼 Working at Miio</li>
+<li>📚 Studing at University of Aveiro</li>
+<li>💻 Currently using Django, Angular, Java...</li>
+<li>🏎 Fascination with Technology, Cars and Sports</li>
+<li>💡 Fun fact: When I was younger, I used to mess up with Navigation Software of BMW cars</li>
+<li>💬 You can always contact me through my social media!</li>
+
+</ul>
+</div>
+<div style="height:300px"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /></div>  
+</div>
+
+<br/>  
+
+
+## 🧠 My Skills 
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+</div>
+
+</td></tr></table> 
+
+<br/>  
+
+<div style="display:flex; justify-content: space-around">
+
+<img width=45% src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
+
+<img width=45% src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
+
+
+</div>  
+
+<br/>  
+
 
 <!--
-**hugofpaiva/hugofpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=hugofpaiva&theme=monokai&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 -->
