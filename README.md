@@ -102,6 +102,8 @@
 
 <br/>  
 
+## 📈 Stats
+
 <div style="display:flex; justify-content: space-around">
 
 <img width=45% src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
