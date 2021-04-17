@@ -1,11 +1,12 @@
 
-<div align="center">
-<img src="./greetings.gif" align="center" style="width: 70%" />
-</div>  
+<p align="center">
+<img src="./greetings.gif" align="center" width=70% />
+</p>  
 
 <br/>
+<br/>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/hugofpaiva" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,10 +20,12 @@
 <img src=https://img.shields.io/badge/website-%2324292e?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
 
+
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hugofpaiva.hugofpaiva&label=Visitors&labelColor=569682&logo=GitHub&logoColor=FFFFFF&color=24292E&style=for-the-badge" alt=counter style="margin-bottom: 5px;" />
 
 
-</div>  
+
+</p>  
 
 
 <br/>
