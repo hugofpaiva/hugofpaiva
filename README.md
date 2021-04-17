@@ -46,11 +46,9 @@
 
 
 <p align="center">
-<img heigh="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
+<img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
 </p> 
 
-
-<br/>    
 
 
 ## 🧠 My Skills 
