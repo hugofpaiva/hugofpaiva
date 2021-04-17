@@ -37,7 +37,8 @@
 <br/>
 
 <div style="display:flex; justify-content: space-around">
-<div style="font-size:14pt; display:flex; align-items:center; width:40%">
+<p style="width:200px">
+  
 <ul>
 <li>💼 Working at Miio</li>
 <li>📚 Studing at University of Aveiro</li>
@@ -45,9 +46,9 @@
 <li>🏎 Fascination with Technology, Cars and Sports</li>
 <li>💡 Fun fact: When I was younger, I used to mess up with Navigation Software of BMW cars</li>
 <li>💬 You can always contact me through my social media!</li>
-
 </ul>
-</div>
+
+</p>
 <div style="height:300px"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /></div>  
 </div>
 
@@ -105,14 +106,10 @@
 
 ## 📈 Stats
 
-<div style="display:flex; justify-content: space-around">
+<img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
 
-<img width=45% src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
+<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
 
-<img width=45% src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
-
-
-</div>  
 
 <br/>  
 
