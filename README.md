@@ -46,7 +46,9 @@
 
 
 <p align="center">
-<img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
+  <a href="https://open.spotify.com/user/hugofpaiva" target="_blank">
+    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
+  </a>  
 </p> 
 
 
