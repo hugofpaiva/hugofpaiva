@@ -39,14 +39,16 @@
 
 - 💼 Working at Miio
 - 📚 Studing at University of Aveiro
-- 💻 Currently using Django, Angular, Java...
+- 💻 Currently using Django, Spring Boot, Angular...
 - 🏎 Fascination with Technology, Cars and Sports
 - 💡 Fun fact: When I was younger, I used to mess up with Navigation SW of BMW cars
 - 💬 You can always contact me through my social media!
 
 
 <p align="center">
-<img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
+  <a href="https://open.spotify.com/user/hugofpaiva" target="_blank">
+    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
+  </a>  
 </p> 
 
 
@@ -79,7 +81,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
 </div>
@@ -104,7 +108,7 @@
 
 <img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
 
-<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
+<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF&custom_title=Weekly%20Development%20Breakdown" />
 
 
 <!--
