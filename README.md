@@ -109,7 +109,7 @@
 ## 📈 Stats
 
 <a href="https://github.com/hugofpaiva" target="_blank">
-<img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF" />
+<img width=45% align="left" src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=101016&title_color=FFF&icon_color=FFF" />
 </a>
 
 <a href="https://github.com/hugofpaiva" target="_blank">
