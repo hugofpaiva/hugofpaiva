@@ -113,7 +113,7 @@
 </a>
 
 <a href="https://github.com/hugofpaiva" target="_blank">
-<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&text_color=FFF&title_color=FFF&icon_color=FFF&custom_title=Weekly%20Development%20Breakdown" />
+<img width=45% align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&title_color=FFF&text_color=101016&custom_title=Weekly%20Development%20Breakdown" />
 </a>
 
 
