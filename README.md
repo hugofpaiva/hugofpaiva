@@ -40,7 +40,7 @@
 
 
 - 💼 Working at Miio
-- 📚 Studing at University of Aveiro
+- 📚 Studying at University of Aveiro
 - 💻 Currently using Django, Spring Boot, Angular...
 - 🏎 Fascination with Technology, Cars and Sports
 - 💡 Fun fact: When I was younger, I used to mess up with Navigation SW of BMW cars
