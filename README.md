@@ -39,7 +39,6 @@
 <br/>
 
 
-- 💼 Working at Miio
 - 📚 Studying at University of Aveiro
 - 💻 Currently using Django, Spring Boot, Angular...
 - 🏎 Fascination with Technology, Cars and Sports
