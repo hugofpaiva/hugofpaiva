@@ -39,8 +39,9 @@
 <br/>
 
 
-- 📚 Studying at University of Aveiro
-- 💻 Currently using Django, Spring Boot, Angular...
+- 👨‍🎓 Software Engineer
+- 💻 Regular Experience with Python, Java, Django and Angular
+- 📚 Currently learning Kubernetes, React and studying Blockchain Technologies
 - 🏎 Fascination with Technology, Cars and Sports
 - 💡 Fun fact: When I was younger, I used to mess up with Navigation SW of BMW cars
 - 💬 You can always contact me through my social media!
