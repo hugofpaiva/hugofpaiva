@@ -10,11 +10,11 @@
 
 <p align="center">
 
-<a href="https://github.com/hugofpaiva" target="_blank">
+<a href="https://go.hugopaiva.com/github" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/hugofpaiva" target="_blank">
+<a href="https://go.hugopaiva.com/linkedin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=569682 alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
@@ -22,7 +22,7 @@
 <img src=https://img.shields.io/badge/website-%2324292e?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://github.com/hugofpaiva" target="_blank">
+<a href="https://go.hugopaiva.com/github" target="_blank">
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hugofpaiva.hugofpaiva&label=Visitors&labelColor=569682&logo=GitHub&logoColor=FFFFFF&color=24292E&style=for-the-badge" alt=counter style="margin-bottom: 5px;" />
 </a>  
 
@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <a href="https://open.spotify.com/user/hugofpaiva" target="_blank">
+  <a href="https://go.hugopaiva.com/spotify" target="_blank">
     <img height="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=hugofpaiva&cover_image=true&theme=default" /> 
   </a>  
 </p> 
@@ -108,11 +108,11 @@
 
 ## 📈 Stats
 
-<a href="https://github.com/hugofpaiva" target="_blank">
+<a href="https://go.hugopaiva.com/github" target="_blank">
 <img width=45% align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hugofpaiva&hide_border=true&bg_color=45,569682,536A67&title_color=FFF&text_color=101016&custom_title=Weekly%20Development%20Breakdown" />
 </a>
 
-<a href="https://github.com/hugofpaiva" target="_blank">
+<a href="https://go.hugopaiva.com/github" target="_blank">
 <img width=45% align="right" src="https://github-readme-stats.vercel.app/api?username=hugofpaiva&show_icons=true&count_private=true&hide_border=true&bg_color=45,569682,536A67&text_color=101016&title_color=FFF&icon_color=FFF" />
 </a>
 
